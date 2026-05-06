@@ -1,0 +1,13 @@
+# builds
+layout
+
+# IDE
+.idea
+
+# JS libraries
+node_modules
+
+# AI
+.aider*
+.prompts
+.claude
